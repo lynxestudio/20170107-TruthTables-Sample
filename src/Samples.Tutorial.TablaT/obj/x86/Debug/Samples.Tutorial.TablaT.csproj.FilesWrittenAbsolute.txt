@@ -1,5 +1,0 @@
-/home/martin/Projects/Samples.Tutorial.TablaT/Samples.Tutorial.TablaT/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/martin/Projects/Samples.Tutorial.TablaT/Samples.Tutorial.TablaT/bin/Debug/Samples.Tutorial.TablaT.exe.mdb
-/home/martin/Projects/Samples.Tutorial.TablaT/Samples.Tutorial.TablaT/bin/Debug/Samples.Tutorial.TablaT.exe
-/home/martin/Projects/Samples.Tutorial.TablaT/Samples.Tutorial.TablaT/obj/x86/Debug/Samples.Tutorial.TablaT.exe
-/home/martin/Projects/Samples.Tutorial.TablaT/Samples.Tutorial.TablaT/obj/x86/Debug/Samples.Tutorial.TablaT.exe.mdb

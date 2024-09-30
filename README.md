@@ -9,7 +9,7 @@ Una tabla de verdad esta formada por filas y columnas, donde el número de filas
 <p align="justify">Con esto se tiene la siguiente expresión:</p>
 <pre>
     <b>Número de filas = 
-		<IMG src="picture_library/logicalOperators/TruthTFormula.png" align="center">
+		<IMG src="images/TruthTFormula.png" align="center">
 </b>
 </pre>
 <p align="justify">
@@ -20,11 +20,11 @@ Como ejemplo la tabla de verdad de una contradicción, una proposición es una c
 </p>
 <div><b>Fig 1 Tabla de verdad de una contradicción.</b></div><br>
 <div>
-<IMG src="picture_library/logicalOperators/TTContradiction.png" align="center">
+<IMG src="images/TTContradiction.png" align="center">
 </div><br>
 <p>
 A continuación la salida de un programa que muestra las tablas de verdad de los operadores lógicos y booleanos que tiene C# para formar proposiciones compuestas a partir de proposiciones simples.</p>
 <div><b>Fig 2 Tablas de verdad de los operadores lógicos y booleanos en C#.</b></div><br>
 <div>
-<IMG src="picture_library/logicalOperators/fig1.png">
+<IMG src="images/fig1.png">
 </div>
